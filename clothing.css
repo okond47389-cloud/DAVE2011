@@ -60,15 +60,16 @@
     }
     .set1 >.img2 >img{
         width: 100px;
-        height: 150px;
+        height: 135px;
     }
     .set1 >.img3 >img{
         width: 80px;
+        height: 150px;
 
     }
     .set1 >.img4 >img{
         width: 100px;
-        height: 150px;
+        height: 135px;
     }
     /* SECTION */
     section >.fonts >h1{
@@ -100,9 +101,13 @@
     .dm >.set3 >.image >img{
         width: 55px;
         height: auto;
-        margin-left: 0;
     }
     /* LETTER */
+    .dm >.set3{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
     .dm >.set3 >.letter >h3{
         font-size: 9px;
     }
