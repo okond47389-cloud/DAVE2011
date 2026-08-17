@@ -630,7 +630,7 @@ section >.dm{
 .section2{
     display: flex;
     justify-content: space-around;
-    margin-right: 20px;
+
 }
 
 .item1 > img{
