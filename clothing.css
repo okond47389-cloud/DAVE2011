@@ -64,7 +64,7 @@
     }
     .set1 >.img3 >img{
         width: 80px;
-        height: 150px;
+        height: 140px;
 
     }
     .set1 >.img4 >img{
@@ -79,7 +79,7 @@
         font-size: 15px;
     }
     section >.set2{
-        flex-direction: column;
+        flex-wrap: wrap;
         align-items: center;
     } 
     .set2 >.im1 >img{
@@ -104,6 +104,7 @@
     } 
     .dm >.set3 >.image >img{
         width: 55px;
+        margin-right: 20px;
         height: auto;
     }
     /* LETTER */
