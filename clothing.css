@@ -7,6 +7,7 @@
     /* HEADER  */
     body >header{
         background: black;
+        min-height: 30vh;
     }
     header >.parent{
         flex-direction: column;
@@ -14,11 +15,14 @@
     }
     header >.parent >.logo>h1 {
         font-size: 20px;
-        margin-left: 0;
+        margin-left: 15px;
     }
     header >.parent >.logo >h3{
         font-size: 15px;
-        margin-left: 0;
+        margin-right: 10px;
+    }
+    .parent >.nav{
+        margin-right: 20px;
     }
     .parent >.nav >nav >a{
         margin-left: 0px;
@@ -78,23 +82,23 @@
         align-items: center;
     } 
     .set2 >.im1 >img{
-        width: 120px;
+        width: 170px;
     } 
     .set2 >.im2 >img{
-        width: 120px;
+        width: 170px;
     } 
     .set2 >.im3 >img{
-        width: 120px;
+        width: 170px;
     } 
     .set2 >.im4 >img{
-        width: 120px;
+        width: 170px;
     } 
     .dm >.set3{
         width: 255px;
         height: auto;
     } 
     .dm >.set3 >.image >img{
-        width: 80px;
+        width: 55px;
         height: auto;
         margin-left: 0;
     }
