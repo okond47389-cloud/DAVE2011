@@ -95,28 +95,31 @@
         width: 170px;
     } 
     .dm >.set3{
-        width: 255px;
+        width: 290px;
         height: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
     } 
     .dm >.set3 >.image >img{
         width: 55px;
         height: auto;
     }
     /* LETTER */
-    .dm >.set3{
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-    }
     .dm >.set3 >.letter >h3{
         font-size: 9px;
+        margin-right: 5px;
     }
     .dm >.set3 >.letter >h1{
         font-size: 13px;
+        margin-right: 5px;
     }
     .dm >.set3 >.letter >p{
         font-size: 7px;
-        width: 90%;
+        width: 60%;
+        margin-right: 5px;
+
     }
    .dm >.set3 >.letter >h4{
     font-size: 8px;
