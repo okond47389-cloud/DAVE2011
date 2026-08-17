@@ -83,16 +83,16 @@
         align-items: center;
     } 
     .set2 >.im1 >img{
-        width: 170px;
+        width: 150px;
     } 
     .set2 >.im2 >img{
-        width: 170px;
+        width: 150px;
     } 
     .set2 >.im3 >img{
-        width: 170px;
+        width: 150px;
     } 
     .set2 >.im4 >img{
-        width: 170px;
+        width: 150px;
     } 
     .dm >.set3{
         width: 290px;
@@ -179,6 +179,45 @@
    /* FOOTER */
   body >footer{
     background-color: rgb(21, 13, 2);
+   }
+   footer >.foot1 >h1{
+    font-size: 15px;
+   }
+   footer >.foot1 >h3{
+    font-size: 10px;
+   }
+   footer >.foot1 >p{
+    font-size: 9px;
+   }
+   .foot1 >.icons >.pic1 >img{
+    width: 10px;
+   }
+   .foot1 >.icons >.pic3 >img{
+    width: 10px;
+   }
+   footer >.foot2 >h1{
+    font-size: 15px;
+   }
+   footer >.foot2 >p{
+    font-size: 10px;
+   }
+   footer >.foot3 >h1{
+    font-size: 15px;
+   }
+   footer >.foot3 >p{
+    font-size: 10px;
+   }
+   footer >.foot3 >h1{
+    font-size: 15px;
+   }
+   footer >.foot3 >p{
+    font-size: 10px;
+   }
+   footer >.foot4 >h1{
+    font-size: 15px;
+   }
+   footer >.foot4 >p{
+    font-size: 10px;
    }
 }
 
