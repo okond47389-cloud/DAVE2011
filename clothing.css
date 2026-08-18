@@ -22,11 +22,10 @@
         margin-right: 10px;
     }
     .parent >.nav{
-        margin-right: 20px;
+        margin-right: 50px;
     }
     .parent >.nav >nav >a{
-        margin-left: 0px;
-        font-size: 4.5px;
+        font-size: 4px;
     }
    header >.child >h1{
         font-size: 20px;
@@ -187,7 +186,8 @@
     font-size: 10px;
    }
    footer >.foot1 >p{
-    font-size: 9px;
+    font-size: 5px;
+    margin-left: 5px;
    }
    .foot1 >.icons >.pic1 >img{
     width: 10px;
